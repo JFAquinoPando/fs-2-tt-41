@@ -1,0 +1,7 @@
+[] Fecha: 2026-03-12 23:45:59
+{"campo1":"valor","campo2":"1234556","campo3":" valor"} Fecha: 2026-03-12 23:46:27
+{"campo1":"valor1","campo2":"otro_dato","campo3":"\ud83c\udf52"} Fecha: 2026-03-12 23:46:43
+{"nombre":"Fabricio","fecha":"1999-01-01","terminos":"on"} Fecha: 2026-03-12 23:55:54
+{"nombre":"Pepe","fecha":"1999-01-01","terminos":"on"} Fecha: 2026-03-13 00:01:23
+{"nombre":"Jose","fecha":"1999-01-01","terminos":"on"} Fecha: 2026-03-13 00:01:54
+{"nombre":"Wilson Caballero","fecha":"1994-07-05","terminos":"on"} Fecha: 2026-03-13 00:03:22
